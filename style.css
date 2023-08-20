@@ -1,3 +1,12 @@
 .container-fluid{
     background: rgb(201, 196, 196);
 }
+section {
+    background: rgb(247, 239, 239);
+}
+footer {
+    background-color: rgb(201, 196, 196);
+    font-style: italic;
+    text-align: center;
+    padding: 70px;
+}
